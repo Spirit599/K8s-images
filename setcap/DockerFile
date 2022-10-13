@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/build-image/debian-iptables:bullseye-v1.1.0
+FROM k8s.gcr.io/build-image/setcap:bullseye-v1.0.0
 MAINTAINER Q
